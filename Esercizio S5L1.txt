@@ -1,0 +1,6 @@
+Ho fatto una piccola analisi prendendo come target la prima azienda informatica per cui ho lavorato: Atlantic Technologies. 
+Su Google ho utilizzato solamente il tool di site crawling, acquisendo informazioni circa i servizi che offrono, le loro sedi (Milano, Londra e Denver), le varie interviste che hanno rilasciato, i case study, i vari eventi organizzati e la recente acquisizione da parte del gruppo Engineering.
+Ho utilizzato anche il tool Webmii, da cui ho ricavato tutte le informazioni social (Instagram, LinkedIn), tutte le info sul loro fatturato utile e anche qualcosa sullo stipendio medio dei dipendenti (su un sito chiamato Glassdoor.it)
+Con whois ho visto che il loro dominio è acquistato da Aruba e i DNS sono gestiti su AWS, IP location a Londra.
+Maltego putroppo non mi ha restituito nessun risultato e crashava spesso l'interfaccia grafica - ho preferito lasciarlo stare per ora, ho giusto effettuato qualche ricerca con nomi molto famosi come Donald Trump ed Elon Musk, trovando diversi indirizzi mail e siti internet associati.
+Come Maltego, ho lasciato perdere, per ora, anche Harvester e Recon-ng, devo capirli meglio.
